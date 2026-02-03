@@ -1,5 +1,5 @@
-pip install pyTelegramBotAPI
-pip install requests
-pip install psutil
-pip install speedtest-cli
-pip install flet
+flet
+pyTelegramBotAPI
+requests
+psutil
+speedtest-cli
